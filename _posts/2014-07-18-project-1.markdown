@@ -6,8 +6,10 @@ alt: image-alt
 category: Sistemi Embedded
 description: ARM, x86
 
----
-
  - Linux
  - RTOS
  - Baremetal
+
+---
+
+

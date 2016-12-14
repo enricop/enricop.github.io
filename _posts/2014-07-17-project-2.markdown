@@ -6,10 +6,12 @@ alt: image-alt
 category: HMI
 description: Data model design
 
----
-
   - Qt,
   - .NET
   - Visual Basic
   - Web-based
+
+---
+
+
 

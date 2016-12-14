@@ -6,8 +6,10 @@ alt: image-alt
 category: Data Analysis
 description: Estrazione valore aggiunto
 
----
-
  - Machine Learning
  - Analisi Spaziale
  - Visualizzazione
+
+---
+
+
