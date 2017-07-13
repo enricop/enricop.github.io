@@ -32,9 +32,9 @@ color:
 # Footer settings
 footer:
   copyright: Papi Enrico
-  location: http://enricopapi.eml.cc
-  social: <a href="https://angel.co/enricop">Angels List</a>
-  credits: Credits
+  location: <a href="http://enricopapi.eml.cc">Personal data</a>
+  social: <a href="https://angel.co/enricop">AngelList</a>
+  credits: <a href="http://sunkiss.altervista.org">Web Development</a>
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
