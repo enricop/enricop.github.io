@@ -1,6 +1,6 @@
 # Site settings
 title: On Demand Software
-email: enrico.papi@gmail.com
+email: enricopapi@eml.cc
 url: https://enricop.github.io
 description: "Papi Enrico"
 skills: "Sistemi Embedded - HMI - Networking - Data Analysis"
@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright: Papi Enrico
-  location: Forlì-Cesena
+  location: http://enricopapi.eml.cc
   social: <a href="https://angel.co/enricop">Angels List</a>
   credits: Credits
 
